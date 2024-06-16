@@ -4,7 +4,7 @@ PyDocInterpreter is a sophisticated code interpreter designed to seamlessly conv
 ## Installation
 __1. Clone the repository:__
 ```bash
-git clone https://github.com/yourusername/pydocinterpreter.git
+git clone https://github.com/Banner-19/pydocinterpreter.git
 cd pydocinterpreter
 ```
 __2. Create a virtual environment:__
